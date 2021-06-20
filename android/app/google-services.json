@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "120890860878",
+    "firebase_url": "https://vidyabharti-41fba.firebaseio.com",
+    "project_id": "vidyabharti-41fba",
+    "storage_bucket": "vidyabharti-41fba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120890860878:android:fc7c2713fa7c03ef",
+        "android_client_info": {
+          "package_name": "org.vidyabhartionline.vidyabharti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120890860878-e9s3eoi38drgcp46s7jnnpb72d1n3ap8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.vidyabhartionline.vidyabharti",
+            "certificate_hash": "79b474e75a34aad007cdc7e591cca58ecdb65f12"
+          }
+        },
+        {
+          "client_id": "120890860878-igtop57uq79qnv56rst70td389ps2i27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEvcEmKTwoy-rTknBQSCTxv4SqErCJs7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120890860878-igtop57uq79qnv56rst70td389ps2i27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
